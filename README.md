@@ -1,16 +1,22 @@
-## Hi there 👋
+# Robson Farias
 
-<!--
-**Robinho-verum/Robinho-verum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❤️ Programmer for love
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current stack
+
+<div style="display:flex; justify-content:flex-start; align-items:center;">
+<img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/php.png" title="PHP">
+<img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/csharp.png" title="C#">
+<img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/mongo.png" title="Mongo DB">
+<img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/typescript.png" title="Typescript">
+
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/html.png" title="HTML">
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/css.png" title="CSS">
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/js.png" title="JavaScript">
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/jquery.png" title="Jquery">
+   <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/node.png" title="Node js">
+  <img height="30" src="https://raw.githubusercontent.com/robsonad18/robsonad18/master/assets/images/icons/git.png" title="Git">
+</div>
+
